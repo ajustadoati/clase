@@ -1,0 +1,22 @@
+Algoritmo para sumar dos numeros
+
+entra
+las variables que serian el primer y segundo numero.
+
+proceso
+la suma de los numeros 
+
+salidad
+el resultado de la suma
+
+Algoritmo
+1 inicio
+2 Algoritmo Algoritmo_para_sumar_dos_numeros
+3 Escribir "Algoritmo para sumar dos numeros"
+4 Escribir  "Ingrese el pimer numero"
+5 Leer a
+6 Escribir  "Ingrese el sugundo numero"
+7 Leer b
+8 suma = a+b
+9 Escribir  "El resultado seria " suma  
+10 FinAlgoritmo
